@@ -1,0 +1,11 @@
+fire base is used to make the application live or it can be used for getiing database
+
+TMBD is used to get the api key of the movies
+
+POSTMAN is used to make an api request
+
+AXIOS is used to make to API request from our code (previosuly we were doing from POSTMAN)
+
+useState Hook renders the page as some change is made in the variable
+
+useEffect Hook runs everytime the second parameter changes its value
